@@ -11,6 +11,18 @@ password: password
 ---
 
 
-#积宝商户测试版（请勿私自下载，损失自负）
-![](http://ouyurqa0t.bkt.clouddn.com/debug.png)
+#积宝商户开发版测试服（请勿私自下载，损失自负）
+![](http://ouyurqa0t.bkt.clouddn.com/17-9-18/33050105.jpg)
+
+
+#积宝商户开发版正式服（请勿私自下载，损失自负）
+![](http://ouyurqa0t.bkt.clouddn.com/17-9-18/85642446.jpg)
+
+
+#积宝商户最新正式版正式服
+![](http://ouyurqa0t.bkt.clouddn.com/17-9-18/1038301.jpg)
+
+
+#积宝商户最新正式版测试服（请勿私自下载，损失自负）
+![]()
 
